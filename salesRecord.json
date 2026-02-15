@@ -1,0 +1,53 @@
+[
+    {
+        "SALE_ID": "S001",
+        "SALE_DATE": "2026-02-01",
+        "Customer": "Alice Johnson",
+        "Items": [
+            {"Product": "Laptop", "Quantity": 1},
+            {"Product": "Mouse", "Quantity": 2},
+            {"Product": "Keyboard", "Quantity": 1}
+        ]
+    },
+    {
+        "SALE_ID": "S002",
+        "SALE_DATE": "2026-02-03",
+        "Customer": "Bob Smith",
+        "Items": [
+            {"Product": "Monitor", "Quantity": 2},
+            {"Product": "USB Hub", "Quantity": 1},
+            {"Product": "Webcam", "Quantity": 1}
+        ]
+    },
+    {
+        "SALE_ID": "S003",
+        "SALE_DATE": "2026-02-05",
+        "Customer": "Carol Rivera",
+        "Items": [
+            {"Product": "Headset", "Quantity": 1},
+            {"Product": "Desk Lamp", "Quantity": 2},
+            {"Product": "Mouse Pad", "Quantity": 3},
+            {"Product": "External SSD", "Quantity": 1}
+        ]
+    },
+    {
+        "SALE_ID": "S004",
+        "SALE_DATE": "2026-02-10",
+        "Customer": "David Lee",
+        "Items": [
+            {"Product": "Laptop", "Quantity": 2},
+            {"Product": "Monitor", "Quantity": 1},
+            {"Product": "INVALID_PRODUCT", "Quantity": 1}
+        ]
+    },
+    {
+        "SALE_ID": "S005",
+        "SALE_DATE": "2026-02-12",
+        "Customer": "Elena Torres",
+        "Items": [
+            {"Product": "Mouse", "Quantity": 5},
+            {"Product": "Keyboard", "Quantity": 3},
+            {"Product": "USB Hub", "Quantity": 2}
+        ]
+    }
+]

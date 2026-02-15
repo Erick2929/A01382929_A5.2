@@ -1,0 +1,12 @@
+[
+    {"title": "Laptop", "price": 999.99},
+    {"title": "Mouse", "price": 25.50},
+    {"title": "Keyboard", "price": 45.00},
+    {"title": "Monitor", "price": 299.99},
+    {"title": "USB Hub", "price": 19.99},
+    {"title": "Webcam", "price": 79.99},
+    {"title": "Headset", "price": 59.99},
+    {"title": "Desk Lamp", "price": 34.99},
+    {"title": "Mouse Pad", "price": 12.50},
+    {"title": "External SSD", "price": 149.99}
+]
